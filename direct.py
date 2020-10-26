@@ -1,6 +1,6 @@
 from time import sleep
 print("Welcome to direct spammer\nDon't forget to use this on your friends not anyone else\nPUBLISHER: ALPHA:) "
-      "\nVERSION: 1.3.1 \nyou have to follow you friends or you get error")
+      "\nVERSION: 1.3.1 \you have to follow you friends or you get error")
 sleep(3)
 try:
 
