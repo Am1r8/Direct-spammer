@@ -40,10 +40,10 @@ def start():
     sleep(1)
     notNow = browser.find_element_by_xpath('//*[@id="react-root"]/section/main/div/div/div/div/button')
     notNow.click()
-    sleep(3)
+    sleep(2)
     notNow_not = browser.find_element_by_xpath('/html/body/div[4]/div/div/div/div[3]/button[2]')
     notNow_not.click()
-    sleep(3)
+    sleep(2)
 
 
 def enteringDirect():
