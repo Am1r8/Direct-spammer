@@ -27,3 +27,4 @@ requirements::
 python 3
 pip install webdriver-manager
 pip install pynput
+pip install selenium
