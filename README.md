@@ -21,3 +21,9 @@ if you got any question dm me on instagram: @alpha__830
 
 
 I am not responsible for anything
+
+
+requirements::
+python 3
+pip install webdriver-manager
+pip install pynput
