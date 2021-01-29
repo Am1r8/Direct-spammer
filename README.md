@@ -24,7 +24,7 @@ I am not responsible for anything
 
 
 requirements::
-python 3
-/npip install webdriver-manager
-/npip install pynput
-/npip install selenium
+python 3<br/>
+pip install webdriver-manager<br/>
+pip install pynput<br/>
+pip install selenium<br/>
